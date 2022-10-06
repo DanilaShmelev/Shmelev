@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "GlobalClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GlobalClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GlobalClass.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "GlobalClass/1.0.0": {
+      "type": "project",
+      "path": "../GlobalClass/GlobalClass.csproj",
+      "msbuildProject": "../GlobalClass/GlobalClass.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "GlobalClass >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\shmel\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shmel\\source\\repos\\Program2\\6\\6.csproj",
-      "projectName": "6",
-      "projectPath": "C:\\Users\\shmel\\source\\repos\\Program2\\6\\6.csproj",
+      "projectUniqueName": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\6\\Exercise6.csproj",
+      "projectName": "Exercise6",
+      "projectPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\6\\Exercise6.csproj",
       "packagesPath": "C:\\Users\\shmel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shmel\\source\\repos\\Program2\\6\\obj\\",
+      "outputPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\GlobalClass\\GlobalClass.csproj": {
+              "projectPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\GlobalClass\\GlobalClass.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

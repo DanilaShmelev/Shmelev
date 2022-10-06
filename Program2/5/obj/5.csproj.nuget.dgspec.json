@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shmel\\source\\repos\\Program2\\5\\5.csproj": {}
+    "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\5\\5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shmel\\source\\repos\\Program2\\5\\5.csproj": {
+    "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\5\\5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shmel\\source\\repos\\Program2\\5\\5.csproj",
+        "projectUniqueName": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\5\\5.csproj",
         "projectName": "5",
-        "projectPath": "C:\\Users\\shmel\\source\\repos\\Program2\\5\\5.csproj",
+        "projectPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\5\\5.csproj",
         "packagesPath": "C:\\Users\\shmel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shmel\\source\\repos\\Program2\\5\\obj\\",
+        "outputPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shmel\\AppData\\Roaming\\NuGet\\NuGet.Config",

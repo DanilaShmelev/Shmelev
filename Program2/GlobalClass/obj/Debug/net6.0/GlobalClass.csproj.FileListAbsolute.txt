@@ -1,0 +1,5 @@
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program2\GlobalClass\obj\Debug\net6.0\GlobalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program2\GlobalClass\obj\Debug\net6.0\GlobalClass.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program2\GlobalClass\obj\Debug\net6.0\GlobalClass.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program2\GlobalClass\obj\Debug\net6.0\GlobalClass.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program2\GlobalClass\obj\Debug\net6.0\GlobalClass.csproj.AssemblyReference.cache

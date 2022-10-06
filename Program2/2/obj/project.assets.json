@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Exercise1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GlobalClass": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Exercise1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exercise1.dll": {}
+        }
+      },
+      "GlobalClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GlobalClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GlobalClass.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Exercise1/1.0.0": {
+      "type": "project",
+      "path": "../Exercise1/Exercise1.csproj",
+      "msbuildProject": "../Exercise1/Exercise1.csproj"
+    },
+    "GlobalClass/1.0.0": {
+      "type": "project",
+      "path": "../GlobalClass/GlobalClass.csproj",
+      "msbuildProject": "../GlobalClass/GlobalClass.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Exercise1 >= 1.0.0",
+      "GlobalClass >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\shmel\\.nuget\\packages\\": {}
@@ -13,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shmel\\source\\repos\\Program2\\2\\2.csproj",
-      "projectName": "2",
-      "projectPath": "C:\\Users\\shmel\\source\\repos\\Program2\\2\\2.csproj",
+      "projectUniqueName": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\2\\Exercise2.csproj",
+      "projectName": "Exercise2",
+      "projectPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\2\\Exercise2.csproj",
       "packagesPath": "C:\\Users\\shmel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shmel\\source\\repos\\Program2\\2\\obj\\",
+      "outputPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +71,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\Exercise1\\Exercise1.csproj": {
+              "projectPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\Exercise1\\Exercise1.csproj"
+            },
+            "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\GlobalClass\\GlobalClass.csproj": {
+              "projectPath": "C:\\Users\\shmel\\OneDrive\\Рабочий стол\\Shmelev\\Program2\\GlobalClass\\GlobalClass.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
