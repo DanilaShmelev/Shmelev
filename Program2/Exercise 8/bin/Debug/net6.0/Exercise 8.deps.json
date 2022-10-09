@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercise 8/1.0.0": {
+        "dependencies": {
+          "Global": "1.0.0"
+        },
+        "runtime": {
+          "Exercise 8.dll": {}
+        }
+      },
+      "Global/1.0.0": {
+        "runtime": {
+          "Global.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise 8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Global/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
