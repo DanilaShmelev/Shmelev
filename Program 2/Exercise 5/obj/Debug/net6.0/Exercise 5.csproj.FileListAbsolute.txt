@@ -1,0 +1,18 @@
+C:\Users\shmel\source\repos\Program 2\Exercise 5\bin\Debug\net6.0\Exercise 5.exe
+C:\Users\shmel\source\repos\Program 2\Exercise 5\bin\Debug\net6.0\Exercise 5.deps.json
+C:\Users\shmel\source\repos\Program 2\Exercise 5\bin\Debug\net6.0\Exercise 5.runtimeconfig.json
+C:\Users\shmel\source\repos\Program 2\Exercise 5\bin\Debug\net6.0\Exercise 5.dll
+C:\Users\shmel\source\repos\Program 2\Exercise 5\bin\Debug\net6.0\ref\Exercise 5.dll
+C:\Users\shmel\source\repos\Program 2\Exercise 5\bin\Debug\net6.0\Exercise 5.pdb
+C:\Users\shmel\source\repos\Program 2\Exercise 5\bin\Debug\net6.0\GlobalClass.dll
+C:\Users\shmel\source\repos\Program 2\Exercise 5\bin\Debug\net6.0\GlobalClass.pdb
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.csproj.AssemblyReference.cache
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.AssemblyInfoInputs.cache
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.AssemblyInfo.cs
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.csproj.CoreCompileInputs.cache
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.csproj.CopyComplete
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.dll
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\ref\Exercise 5.dll
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.pdb
+C:\Users\shmel\source\repos\Program 2\Exercise 5\obj\Debug\net6.0\Exercise 5.genruntimeconfig.cache
