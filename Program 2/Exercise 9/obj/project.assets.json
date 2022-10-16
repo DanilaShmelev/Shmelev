@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shmel\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shmel\\source\\repos\\Program 2\\Exercise 9\\Exercise 9.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Shmelev\\Program 2\\Exercise 9\\Exercise 9.csproj",
       "projectName": "Exercise 9",
-      "projectPath": "C:\\Users\\shmel\\source\\repos\\Program 2\\Exercise 9\\Exercise 9.csproj",
-      "packagesPath": "C:\\Users\\shmel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shmel\\source\\repos\\Program 2\\Exercise 9\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\Shmelev\\Program 2\\Exercise 9\\Exercise 9.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Shmelev\\Program 2\\Exercise 9\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\shmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\shmel\\source\\repos\\Program 2\\GlobalClass\\GlobalClass.csproj": {
-              "projectPath": "C:\\Users\\shmel\\source\\repos\\Program 2\\GlobalClass\\GlobalClass.csproj"
+            "C:\\Users\\User\\Desktop\\Shmelev\\Program 2\\GlobalClass\\GlobalClass.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Shmelev\\Program 2\\GlobalClass\\GlobalClass.csproj"
             }
           }
         }
@@ -74,7 +79,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -83,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

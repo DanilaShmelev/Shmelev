@@ -16,3 +16,21 @@ C:\Users\shmel\source\repos\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.dll
 C:\Users\shmel\source\repos\Program 2\Exercise 4\obj\Debug\net6.0\ref\Exercise 4.dll
 C:\Users\shmel\source\repos\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.pdb
 C:\Users\shmel\source\repos\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.genruntimeconfig.cache
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\bin\Debug\net6.0\Exercise 4.exe
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\bin\Debug\net6.0\Exercise 4.deps.json
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\bin\Debug\net6.0\Exercise 4.runtimeconfig.json
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\bin\Debug\net6.0\Exercise 4.dll
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\bin\Debug\net6.0\Exercise 4.pdb
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\bin\Debug\net6.0\GlobalClass.dll
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\bin\Debug\net6.0\GlobalClass.pdb
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.AssemblyInfo.cs
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.CopyComplete
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.dll
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\refint\Exercise 4.dll
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.pdb
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\Exercise 4.genruntimeconfig.cache
+C:\Users\User\Desktop\Shmelev\Program 2\Exercise 4\obj\Debug\net6.0\ref\Exercise 4.dll

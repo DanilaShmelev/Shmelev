@@ -4,7 +4,7 @@ namespace Local_Class
 {
     public static class LocalClass
     {
-        public static bool IfRepeatElementsArray(int i, int arrayElement, int[] array)
+        public static bool IfRepeatElementsInArray(int i, int arrayElement, int[] array)
         {
             for (int j = 0; j < i; j++)
             {
@@ -27,10 +27,10 @@ namespace Local_Class
                     Console.Write($"Введите элемент [{i}]: ");
                     if (!int.TryParse(Console.ReadLine(), out element))
                     {
-                        Console.WriteLine("На вход принимаются только int значения и значения не больше чем " + int.MaxValue);
+                        Console.WriteLine("На вход принимаются только int значения");
                         continue;
                     }
-                    else if (IfRepeatElementsArray(i, element, array))
+                    else if (IfRepeatElementsInArray(i, element, array))
                     {
                         Console.Write("Замечено повторение\n");
                         continue;
@@ -48,9 +48,14 @@ namespace Local_Class
             Array.Sort(first_numbers);
             Array.Sort(second_numbers);
 
+            if (first_numbers.Length != second_numbers.Length)
+            {
+                return false;
+            }
             for (int i = 0; i < first_numbers.Length; i++)
             {
-                if ((first_numbers[i] != second_numbers[i]) || (first_numbers.Length != second_numbers.Length)) 
+               
+                if (first_numbers[i] != second_numbers[i]) 
                 {
                     return false;
                 }

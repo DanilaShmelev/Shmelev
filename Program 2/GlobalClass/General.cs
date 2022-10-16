@@ -26,7 +26,7 @@ namespace General
             }
         }
 
-        public static int GetArraySize()
+        public static int SetArraySize()
         {
             int n = 0;
 

@@ -28,29 +28,23 @@ namespace Local_Class
             return findNum;
         }
 
-        public static int[] GetIndexeOfNumbers(int findNum, int[] array)
+        public static int[] GetIndexesOf(int findNum, int[] array)
         {
-            int size = 0;
-
-            for (int i = 0; i < array.Length; i++)
-            {
-                if (array[i] == findNum)
-                {
-                    size++;
-                }
-            }
+            int size = (Array.FindAll(array, unknowVar => unknowVar == findNum)).Length;
 
             int[] indexes = new int[size];
-            int ind = 0;
-
-            for (int i = 0; i < array.Length; i++)
+            int ind = -1;
+            int pos = 0;
+            do
             {
-                if (array[i] == findNum)
+                ind = Array.IndexOf(array, findNum, ind + 1);
+                if (ind != -1)
                 {
-                    indexes[ind] = i;
-                    ind++;
+                    indexes[pos] = ind;
+                    pos++;
                 }
             }
+            while (ind != -1);
 
             return indexes;
         }

@@ -9,7 +9,10 @@ int[] array = GlobalClass.GetRandomArray(minValue, maxValue, n);
 Console.Write("Рандомный массив: ");
 GlobalClass.OutPutArray(array);
 
+Console.Write($"\nПоложительные элементы:");
+LocalClass.PrintPlusElements(array);
+
 int sum = LocalClass.GetSumPlusElements(array);
-Console.Write($"\nСумма неотрицательных элементов: {sum}");
+Console.Write($"\nСумма положительных элементов: {sum}");
 
 Console.ReadKey();

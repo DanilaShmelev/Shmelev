@@ -7,9 +7,9 @@ const int maxValue = 10;
 
 int[,] array = LocalClass.GetDoubleRandomArray(minValue, maxValue, a, b);
 Console.Write("Рандомный массив: ");
-LocalClass.OutputArray(array, a, b);
+LocalClass.OutputArray(array);
 
-int result = LocalClass.GetResultMultiplesPosition(array, a, b);
+int result = LocalClass.GetResultMultiplesPosition(array);
 Console.Write($"\nСумма элементов четных позиций: {result}" );
 
 Console.ReadKey();

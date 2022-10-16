@@ -18,5 +18,16 @@ namespace Local_Class
 
             return sum;
         }
+
+        public static void PrintPlusElements(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] > 0)
+                {
+                    Console.Write(array[i] + " ");
+                }
+            }
+        }
     }
 }

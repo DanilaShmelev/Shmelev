@@ -4,7 +4,7 @@ using Local_Class;
 int n = 0;
 
 Console.Write("Введите кол-во элементов в массивах: ");
-n = GlobalClass.GetArraySize();
+n = GlobalClass.SetArraySize();
 
 int[] first_numbers = new int[n];
 int[] second_numbers = new int[n];
