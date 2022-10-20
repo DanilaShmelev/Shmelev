@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e534270d-716c-48e3-84e5-10ffb7ce617e": {
+      "ProjectGuid": "e534270d-716c-48e3-84e5-10ffb7ce617e",
+      "DisplayName": "Exercise 1",
+      "ColorIndex": 0
+    },
+    "9813ce4f-6097-4fd2-8adf-4daa3e38c6d3": {
+      "ProjectGuid": "9813ce4f-6097-4fd2-8adf-4daa3e38c6d3",
+      "DisplayName": "Exercise 1",
+      "ColorIndex": 1
+    },
+    "92487195-098b-4720-8320-9312a714c007": {
+      "ProjectGuid": "92487195-098b-4720-8320-9312a714c007",
+      "DisplayName": "Exercise 2",
+      "ColorIndex": 2
+    },
+    "52f6eacc-149d-4a57-8799-e3837c085865": {
+      "ProjectGuid": "52f6eacc-149d-4a57-8799-e3837c085865",
+      "DisplayName": "Exercise 3",
+      "ColorIndex": 3
+    },
+    "e20965ac-8c61-4692-b759-8c25e4e056e7": {
+      "ProjectGuid": "e20965ac-8c61-4692-b759-8c25e4e056e7",
+      "DisplayName": "Exercise 4",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "4b375643-fea5-4b9b-bd53-63b4d811e77a": {
+      "ProjectGuid": "4b375643-fea5-4b9b-bd53-63b4d811e77a",
+      "DisplayName": "Exercise 5",
+      "ColorIndex": 5
+    },
+    "be44ddd4-861f-4a12-8af4-553026f45ac8": {
+      "ProjectGuid": "be44ddd4-861f-4a12-8af4-553026f45ac8",
+      "DisplayName": "Exercise 6",
+      "ColorIndex": 6
+    },
+    "c50055f6-928d-48cd-aca1-f408257d9c3e": {
+      "ProjectGuid": "c50055f6-928d-48cd-aca1-f408257d9c3e",
+      "DisplayName": "Exercise 7",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
