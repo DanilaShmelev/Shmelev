@@ -1,0 +1,18 @@
+E:\Program 3\1\bin\Debug\net6.0\Exercise 1.exe
+E:\Program 3\1\bin\Debug\net6.0\Exercise 1.deps.json
+E:\Program 3\1\bin\Debug\net6.0\Exercise 1.runtimeconfig.json
+E:\Program 3\1\bin\Debug\net6.0\Exercise 1.dll
+E:\Program 3\1\bin\Debug\net6.0\ref\Exercise 1.dll
+E:\Program 3\1\bin\Debug\net6.0\Exercise 1.pdb
+E:\Program 3\1\bin\Debug\net6.0\General.dll
+E:\Program 3\1\bin\Debug\net6.0\General.pdb
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.csproj.AssemblyReference.cache
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.AssemblyInfoInputs.cache
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.AssemblyInfo.cs
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.csproj.CoreCompileInputs.cache
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.csproj.CopyComplete
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.dll
+E:\Program 3\1\obj\Debug\net6.0\ref\Exercise 1.dll
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.pdb
+E:\Program 3\1\obj\Debug\net6.0\Exercise 1.genruntimeconfig.cache

@@ -12,3 +12,18 @@ C:\Users\shmel\source\repos\Exercise 1\Exercise 7\obj\Debug\net6.0\Exercise 7.dl
 C:\Users\shmel\source\repos\Exercise 1\Exercise 7\obj\Debug\net6.0\ref\Exercise 7.dll
 C:\Users\shmel\source\repos\Exercise 1\Exercise 7\obj\Debug\net6.0\Exercise 7.pdb
 C:\Users\shmel\source\repos\Exercise 1\Exercise 7\obj\Debug\net6.0\Exercise 7.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\bin\Debug\net6.0\Exercise 7.exe
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\bin\Debug\net6.0\Exercise 7.deps.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\bin\Debug\net6.0\Exercise 7.runtimeconfig.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\bin\Debug\net6.0\Exercise 7.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\bin\Debug\net6.0\ref\Exercise 7.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\bin\Debug\net6.0\Exercise 7.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\Exercise 7.csproj.AssemblyReference.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\Exercise 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\Exercise 7.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\Exercise 7.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\Exercise 7.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\Exercise 7.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\ref\Exercise 7.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\Exercise 7.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 1\Exercise 7\obj\Debug\net6.0\Exercise 7.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\Task-3\Utils\bin\Debug\net6.0\General.deps.json
+C:\Users\User\Desktop\Task-3\Utils\bin\Debug\net6.0\General.dll
+C:\Users\User\Desktop\Task-3\Utils\bin\Debug\net6.0\General.pdb
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\General.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\General.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\General.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\General.AssemblyInfo.cs
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\General.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\General.dll
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\refint\General.dll
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\General.pdb
+C:\Users\User\Desktop\Task-3\Utils\obj\Debug\net6.0\ref\General.dll
+E:\Program 3\Utils\bin\Debug\net6.0\General.deps.json
+E:\Program 3\Utils\bin\Debug\net6.0\General.dll
+E:\Program 3\Utils\bin\Debug\net6.0\ref\General.dll
+E:\Program 3\Utils\bin\Debug\net6.0\General.pdb
+E:\Program 3\Utils\obj\Debug\net6.0\General.csproj.AssemblyReference.cache
+E:\Program 3\Utils\obj\Debug\net6.0\General.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program 3\Utils\obj\Debug\net6.0\General.AssemblyInfoInputs.cache
+E:\Program 3\Utils\obj\Debug\net6.0\General.AssemblyInfo.cs
+E:\Program 3\Utils\obj\Debug\net6.0\General.csproj.CoreCompileInputs.cache
+E:\Program 3\Utils\obj\Debug\net6.0\General.dll
+E:\Program 3\Utils\obj\Debug\net6.0\ref\General.dll
+E:\Program 3\Utils\obj\Debug\net6.0\General.pdb

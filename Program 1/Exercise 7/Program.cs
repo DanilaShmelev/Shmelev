@@ -6,21 +6,21 @@ namespace exercise1
     {
         static void Main(string[] args)
         {
-            byte a = 0;
+            byte firstNumber = 0;
 
             bool check = true;
             while (check)
             {
                 Console.Write("Введите первое число: ");
-                if (!byte.TryParse(Console.ReadLine(), out a))
+                if (!byte.TryParse(Console.ReadLine(), out firstNumber))
                 {
                     Console.WriteLine("Вы ввели число не верного типа данных!!!");
                 }
-                else if (a < 0)
+                else if (firstNumber < 0)
                 {
                     Console.WriteLine("Сторона не может быть отрицательной!");
                 }
-                else if (a > byte.MaxValue)
+                else if (firstNumber > byte.MaxValue)
                 {
                     Console.WriteLine("Сторона слишком большая!");
                 }
@@ -30,19 +30,19 @@ namespace exercise1
                 }
             }
             check = true;
-            byte b = 0;
+            byte secondNumber = 0;
             while (check)
             {
                 Console.Write("Введитет второе число: ");
-                if (!byte.TryParse(Console.ReadLine(), out b))
+                if (!byte.TryParse(Console.ReadLine(), out secondNumber))
                 {
                     Console.WriteLine("Вы ввели число не верного типа данных!!!");
                 }
-                else if (b < 0)
+                else if (secondNumber < 0)
                 {
                     Console.WriteLine("Сторона не может быть отрицательной!");
                 }
-                else if (b > byte.MaxValue)
+                else if (secondNumber > byte.MaxValue)
                 {
                     Console.WriteLine("Сторона слишком большая!");
                 }
@@ -51,9 +51,9 @@ namespace exercise1
                     check = false;
                 }
             }
-            Console.WriteLine($"Побитовое и: {a & b}");
-            Console.WriteLine($"Побитовое или: {a | b}");
-            Console.WriteLine($"Побитовое ислючающее или: {a ^ b}");
+            Console.WriteLine($"Побитовое и: {firstNumber & secondNumber}");
+            Console.WriteLine($"Побитовое или: {firstNumber | secondNumber}");
+            Console.WriteLine($"Побитовое ислючающее или: {firstNumber ^ secondNumber}");
         }
     }
 }

@@ -6,21 +6,21 @@ namespace exercise1
     {
         static void Main(string[] args)
         {
-            float a = 0;
+            float firstSide = 0;
 
             bool check = true;
             while (check)
             {
                 Console.WriteLine("Введитет первую сторону прямоугольника а: ");
-                if (!float.TryParse(Console.ReadLine(), out a))
+                if (!float.TryParse(Console.ReadLine(), out firstSide))
                 {
                     Console.WriteLine("Вы ввели число не верного типа данных!!!");
                 }
-                else if (a < 0)
+                else if (firstSide < 0)
                 {
                     Console.WriteLine("Сторона не может быть отрицательной!");
                 }
-                else if (a > float.MaxValue)
+                else if (firstSide > float.MaxValue)
                 {
                     Console.WriteLine("Сторона слишком большая!");
                 }
@@ -30,19 +30,19 @@ namespace exercise1
                 }
             }
             check = true;
-            float b = 0;
+            float secondSide = 0;
             while (check)
             {
                 Console.WriteLine("Введитет вторую сторону прямоугольника b: ");
-                if (!float.TryParse(Console.ReadLine(), out b))
+                if (!float.TryParse(Console.ReadLine(), out secondSide))
                 {
                     Console.WriteLine("Вы ввели число не верного типа данных!!!");
                 }
-                else if (b < 0)
+                else if (secondSide < 0)
                 {
                     Console.WriteLine("Сторона не может быть отрицательной!");
                 }
-                else if (b > float.MaxValue)
+                else if (secondSide > float.MaxValue)
                 {
                     Console.WriteLine("Сторона слишком большая!");
                 }
@@ -51,8 +51,8 @@ namespace exercise1
                     check = false;
                 }
             }
-            float result = a * b;
-            if (a == b)
+            float result = firstSide * secondSide;
+            if (firstSide == secondSide)
             {
                 Console.WriteLine("Прямоугольник является квадратом!!!");
                 Console.WriteLine($"Площадь квадрата равна:{result}");

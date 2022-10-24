@@ -1,0 +1,17 @@
+E:\Program 3\5\bin\Debug\net6.0\Exercise 5.exe
+E:\Program 3\5\bin\Debug\net6.0\Exercise 5.deps.json
+E:\Program 3\5\bin\Debug\net6.0\Exercise 5.runtimeconfig.json
+E:\Program 3\5\bin\Debug\net6.0\Exercise 5.dll
+E:\Program 3\5\bin\Debug\net6.0\ref\Exercise 5.dll
+E:\Program 3\5\bin\Debug\net6.0\Exercise 5.pdb
+E:\Program 3\5\bin\Debug\net6.0\General.dll
+E:\Program 3\5\bin\Debug\net6.0\General.pdb
+E:\Program 3\5\obj\Debug\net6.0\Exercise 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program 3\5\obj\Debug\net6.0\Exercise 5.AssemblyInfoInputs.cache
+E:\Program 3\5\obj\Debug\net6.0\Exercise 5.AssemblyInfo.cs
+E:\Program 3\5\obj\Debug\net6.0\Exercise 5.csproj.CoreCompileInputs.cache
+E:\Program 3\5\obj\Debug\net6.0\Exercise 5.csproj.CopyComplete
+E:\Program 3\5\obj\Debug\net6.0\Exercise 5.dll
+E:\Program 3\5\obj\Debug\net6.0\ref\Exercise 5.dll
+E:\Program 3\5\obj\Debug\net6.0\Exercise 5.pdb
+E:\Program 3\5\obj\Debug\net6.0\Exercise 5.genruntimeconfig.cache

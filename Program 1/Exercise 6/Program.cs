@@ -6,20 +6,20 @@ namespace exercise1
     {
         static void Main(string[] args)
         {
-            double a = 0;
+            double firstSide = 0;
             bool check = true;
             while (check)
             {
                 Console.Write("Введите первую сторону треугольника: ");
-                if (!double.TryParse(Console.ReadLine(), out a))
+                if (!double.TryParse(Console.ReadLine(), out firstSide))
                 {
                     Console.WriteLine("Вы ввели число не верного типа данных!!!");
                 }
-                else if (a < 1)
+                else if (firstSide < 1)
                 {
                     Console.WriteLine("Вы ввели значение меньше 1!");
                 }
-                else if (a > double.MaxValue)
+                else if (firstSide > double.MaxValue)
                 {
                     Console.WriteLine("Число слишком большое!");
                 }
@@ -29,19 +29,19 @@ namespace exercise1
                 }
             }
             check = true;
-            double b = 0;
+            double secondSide = 0;
             while (check)
             {
                 Console.Write("Введите вторую сторону треугольника: ");
-                if (!double.TryParse(Console.ReadLine(), out b))
+                if (!double.TryParse(Console.ReadLine(), out secondSide))
                 {
                     Console.WriteLine("Вы ввели число не верного типа данных!!!");
                 }
-                else if (b < 1)
+                else if (secondSide < 1)
                 {
                     Console.WriteLine("Вы ввели значение меньше 1!");
                 }
-                else if (b > double.MaxValue)
+                else if (secondSide > double.MaxValue)
                 {
                     Console.WriteLine("Число слишком большое!");
                 }
@@ -51,19 +51,19 @@ namespace exercise1
                 }
             }
             check = true;
-            double c = 0;
+            double thirdSide = 0;
             while (check)
             {
                 Console.Write("Введите третью сторону треугольника: ");
-                if (!double.TryParse(Console.ReadLine(), out c))
+                if (!double.TryParse(Console.ReadLine(), out thirdSide))
                 {
                     Console.WriteLine("Вы ввели число не верного типа данных!!!");
                 }
-                else if (c < 1)
+                else if (thirdSide < 1)
                 {
                     Console.WriteLine("Вы ввели значение меньше 1!");
                 }
-                else if (c > double.MaxValue)
+                else if (thirdSide > double.MaxValue)
                 {
                     Console.WriteLine("Число слишком большое!");
                 }
@@ -72,15 +72,15 @@ namespace exercise1
                     check = false;
                 }
             }
-            if (a + b < c || a + c < b || b + c < a)
+            if (firstSide + secondSide < thirdSide || firstSide + thirdSide < secondSide || secondSide + thirdSide < firstSide)
             {
                 Console.WriteLine("Треугольника с данными сторонами не существует!!!");
             }
             else
             {
-                double p = (a + b + c) / 2;
-                double s = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
-                Console.WriteLine("Полупериметр = " + p + "\nПлощадь = " + s);
+                double SemiPerimeter = (firstSide + secondSide + thirdSide) / 2;
+                double square = Math.Sqrt(SemiPerimeter * (SemiPerimeter - firstSide) * (SemiPerimeter - secondSide) * (SemiPerimeter - thirdSide));
+                Console.WriteLine("Полупериметр = " + SemiPerimeter + "\nПлощадь = " + square);
                 Console.ReadKey();
             }
         }
