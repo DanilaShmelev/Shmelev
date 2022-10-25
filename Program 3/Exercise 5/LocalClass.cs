@@ -23,6 +23,10 @@ namespace Local_Class
 
                 Console.WriteLine(message.ToString());
             }
+            else
+            {
+                Console.WriteLine("Дата не верной формы записи!!!");
+            }
         }
     }
 }

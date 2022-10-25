@@ -6,7 +6,7 @@ namespace Local_Class
     {
         public static string[] GetStringWithoutSymbols(string str)
         {
-            return str.Split(new char[] { ' ', ',', ':', '.', '!', '?', '-', '(', ')', '"', ';',}, StringSplitOptions.RemoveEmptyEntries);
+            return str.Split(new char[] { ' ', ',', ':', '.', '!', '?', '-', '(', ')', '"', ';', }, StringSplitOptions.RemoveEmptyEntries);
         }
 
         public static double GetAverageLength(string[] arrayString)
@@ -18,7 +18,7 @@ namespace Local_Class
                 allWordLength += arrayString[i].Length;
             }
 
-            if (arrayString.Length > 0) 
+            if (arrayString.Length > 0)
             {
                 return allWordLength / arrayString.Length;
             }
@@ -29,4 +29,3 @@ namespace Local_Class
         }
     }
 }
-

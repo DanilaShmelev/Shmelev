@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Program 3\\5\\Exercise 5.csproj": {}
+    "C:\\Users\\shmel\\source\\repos\\Program 3\\Exercise 5\\Exercise 5.csproj": {}
   },
   "projects": {
-    "E:\\Program 3\\5\\Exercise 5.csproj": {
+    "C:\\Users\\shmel\\source\\repos\\Program 3\\Exercise 5\\Exercise 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Program 3\\5\\Exercise 5.csproj",
+        "projectUniqueName": "C:\\Users\\shmel\\source\\repos\\Program 3\\Exercise 5\\Exercise 5.csproj",
         "projectName": "Exercise 5",
-        "projectPath": "E:\\Program 3\\5\\Exercise 5.csproj",
+        "projectPath": "C:\\Users\\shmel\\source\\repos\\Program 3\\Exercise 5\\Exercise 5.csproj",
         "packagesPath": "C:\\Users\\shmel\\.nuget\\packages\\",
-        "outputPath": "E:\\Program 3\\5\\obj\\",
+        "outputPath": "C:\\Users\\shmel\\source\\repos\\Program 3\\Exercise 5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shmel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Program 3\\Utils\\General.csproj": {
-                "projectPath": "E:\\Program 3\\Utils\\General.csproj"
+              "C:\\Users\\shmel\\source\\repos\\Program 3\\GlobalClass\\General.csproj": {
+                "projectPath": "C:\\Users\\shmel\\source\\repos\\Program 3\\GlobalClass\\General.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "E:\\Program 3\\Utils\\General.csproj": {
+    "C:\\Users\\shmel\\source\\repos\\Program 3\\GlobalClass\\General.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Program 3\\Utils\\General.csproj",
+        "projectUniqueName": "C:\\Users\\shmel\\source\\repos\\Program 3\\GlobalClass\\General.csproj",
         "projectName": "General",
-        "projectPath": "E:\\Program 3\\Utils\\General.csproj",
+        "projectPath": "C:\\Users\\shmel\\source\\repos\\Program 3\\GlobalClass\\General.csproj",
         "packagesPath": "C:\\Users\\shmel\\.nuget\\packages\\",
-        "outputPath": "E:\\Program 3\\Utils\\obj\\",
+        "outputPath": "C:\\Users\\shmel\\source\\repos\\Program 3\\GlobalClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shmel\\AppData\\Roaming\\NuGet\\NuGet.Config",

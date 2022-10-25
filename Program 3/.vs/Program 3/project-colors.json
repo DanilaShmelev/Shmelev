@@ -1,36 +1,41 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "47f19afd-3175-4d2c-896f-755fdfba254a": {
-      "ProjectGuid": "47f19afd-3175-4d2c-896f-755fdfba254a",
-      "DisplayName": "Exercise 5",
+    "89778837-ff43-4b91-9d67-4854032fb23c": {
+      "ProjectGuid": "89778837-ff43-4b91-9d67-4854032fb23c",
+      "DisplayName": "Exercise 1",
       "ColorIndex": 0
     },
-    "635ee678-2076-4937-a3bd-a0050ef5d780": {
-      "ProjectGuid": "635ee678-2076-4937-a3bd-a0050ef5d780",
-      "DisplayName": "Exercise 4",
+    "e451bfdf-a2dd-4a03-8d32-17ee8a31620f": {
+      "ProjectGuid": "e451bfdf-a2dd-4a03-8d32-17ee8a31620f",
+      "DisplayName": "Exercise 2",
       "ColorIndex": 1
     },
-    "8ecb0c42-5074-4089-baa5-5fd170db3875": {
-      "ProjectGuid": "8ecb0c42-5074-4089-baa5-5fd170db3875",
+    "f51aee98-0cab-46f0-aa7f-feb3eca5c504": {
+      "ProjectGuid": "f51aee98-0cab-46f0-aa7f-feb3eca5c504",
       "DisplayName": "Exercise 3",
       "ColorIndex": 2
     },
-    "4b4a6a18-420b-4b61-b8bb-d570a0810aea": {
-      "ProjectGuid": "4b4a6a18-420b-4b61-b8bb-d570a0810aea",
-      "DisplayName": "Exercise 2",
+    "f6595b8f-f4da-4da7-bac5-f125ac1d3a07": {
+      "ProjectGuid": "f6595b8f-f4da-4da7-bac5-f125ac1d3a07",
+      "DisplayName": "Exercise 4",
       "ColorIndex": 3
     },
-    "2cfb635a-a334-42f6-8f49-3b6688b1dfce": {
-      "ProjectGuid": "2cfb635a-a334-42f6-8f49-3b6688b1dfce",
-      "DisplayName": "Exercise 1",
+    "d26704d5-b60c-4e65-b916-c79e5eead45c": {
+      "ProjectGuid": "d26704d5-b60c-4e65-b916-c79e5eead45c",
+      "DisplayName": "Exercise 5",
       "ColorIndex": 4
     },
-    "0fbcd6c9-1f87-464d-b800-5af327793f52": {
-      "ProjectGuid": "0fbcd6c9-1f87-464d-b800-5af327793f52",
+    "7b3e8f26-4c9b-424c-8d2d-a8bb5598848d": {
+      "ProjectGuid": "7b3e8f26-4c9b-424c-8d2d-a8bb5598848d",
       "DisplayName": "General",
       "ColorIndex": 5
+    },
+    "a0cd3f24-0320-4a8e-85b6-bfa76a6f3dff": {
+      "ProjectGuid": "a0cd3f24-0320-4a8e-85b6-bfa76a6f3dff",
+      "DisplayName": "Exercise 1",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

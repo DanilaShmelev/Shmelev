@@ -1,18 +1,18 @@
-E:\Program 3\4\bin\Debug\net6.0\Exercise 4.exe
-E:\Program 3\4\bin\Debug\net6.0\Exercise 4.deps.json
-E:\Program 3\4\bin\Debug\net6.0\Exercise 4.runtimeconfig.json
-E:\Program 3\4\bin\Debug\net6.0\Exercise 4.dll
-E:\Program 3\4\bin\Debug\net6.0\ref\Exercise 4.dll
-E:\Program 3\4\bin\Debug\net6.0\Exercise 4.pdb
-E:\Program 3\4\bin\Debug\net6.0\General.dll
-E:\Program 3\4\bin\Debug\net6.0\General.pdb
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.csproj.AssemblyReference.cache
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.AssemblyInfoInputs.cache
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.AssemblyInfo.cs
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.csproj.CoreCompileInputs.cache
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.csproj.CopyComplete
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.dll
-E:\Program 3\4\obj\Debug\net6.0\ref\Exercise 4.dll
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.pdb
-E:\Program 3\4\obj\Debug\net6.0\Exercise 4.genruntimeconfig.cache
+C:\Users\shmel\source\repos\Program 3\Exercise 4\bin\Debug\net6.0\Exercise 4.exe
+C:\Users\shmel\source\repos\Program 3\Exercise 4\bin\Debug\net6.0\Exercise 4.deps.json
+C:\Users\shmel\source\repos\Program 3\Exercise 4\bin\Debug\net6.0\Exercise 4.runtimeconfig.json
+C:\Users\shmel\source\repos\Program 3\Exercise 4\bin\Debug\net6.0\Exercise 4.dll
+C:\Users\shmel\source\repos\Program 3\Exercise 4\bin\Debug\net6.0\ref\Exercise 4.dll
+C:\Users\shmel\source\repos\Program 3\Exercise 4\bin\Debug\net6.0\Exercise 4.pdb
+C:\Users\shmel\source\repos\Program 3\Exercise 4\bin\Debug\net6.0\General.dll
+C:\Users\shmel\source\repos\Program 3\Exercise 4\bin\Debug\net6.0\General.pdb
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.AssemblyReference.cache
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.AssemblyInfoInputs.cache
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.AssemblyInfo.cs
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.csproj.CopyComplete
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.dll
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\ref\Exercise 4.dll
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.pdb
+C:\Users\shmel\source\repos\Program 3\Exercise 4\obj\Debug\net6.0\Exercise 4.genruntimeconfig.cache

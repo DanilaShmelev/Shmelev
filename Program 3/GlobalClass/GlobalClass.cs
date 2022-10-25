@@ -1,5 +1,4 @@
-﻿
-namespace Global_Class;
+﻿namespace Global_Class;
 
 public static class GlobalClass
 {
