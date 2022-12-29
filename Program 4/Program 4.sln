@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicArray", "DynamicArray\DynamicArray.csproj", "{D3E27F24-6D53-466C-B04A-38CD126DF597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassUser", "ClassUser\ClassUser.csproj", "{B213C739-CCC1-457D-BC51-2A7CF3A16BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E27F24-6D53-466C-B04A-38CD126DF597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E27F24-6D53-466C-B04A-38CD126DF597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E27F24-6D53-466C-B04A-38CD126DF597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E27F24-6D53-466C-B04A-38CD126DF597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B213C739-CCC1-457D-BC51-2A7CF3A16BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B213C739-CCC1-457D-BC51-2A7CF3A16BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B213C739-CCC1-457D-BC51-2A7CF3A16BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B213C739-CCC1-457D-BC51-2A7CF3A16BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2F8A70D-C727-4629-A9D1-AD06B481B12F}
+	EndGlobalSection
+EndGlobal

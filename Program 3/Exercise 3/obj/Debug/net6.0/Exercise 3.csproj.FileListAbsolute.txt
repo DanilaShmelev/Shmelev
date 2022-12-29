@@ -15,3 +15,21 @@ C:\Users\shmel\source\repos\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.dll
 C:\Users\shmel\source\repos\Program 3\Exercise 3\obj\Debug\net6.0\ref\Exercise 3.dll
 C:\Users\shmel\source\repos\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.pdb
 C:\Users\shmel\source\repos\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\bin\Debug\net6.0\Exercise 3.exe
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\bin\Debug\net6.0\Exercise 3.deps.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\bin\Debug\net6.0\Exercise 3.runtimeconfig.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\bin\Debug\net6.0\Exercise 3.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\bin\Debug\net6.0\ref\Exercise 3.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\bin\Debug\net6.0\Exercise 3.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\bin\Debug\net6.0\General.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\bin\Debug\net6.0\General.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.csproj.AssemblyReference.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.csproj.CopyComplete
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\ref\Exercise 3.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Program 3\Exercise 3\obj\Debug\net6.0\Exercise 3.genruntimeconfig.cache

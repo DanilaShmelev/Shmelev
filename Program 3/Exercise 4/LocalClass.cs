@@ -7,7 +7,7 @@ namespace Local_Class
     {
         internal static string ReplaceTags(string str)
         {
-            string pattern = @"(\<([^\>]+)\>)";
+            string pattern = @"(\<*\>)";
             string sign = "_";
 
             Regex regex = new Regex(pattern);

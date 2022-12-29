@@ -1,0 +1,15 @@
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\bin\Debug\net6.0\DynamicArray.exe
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\bin\Debug\net6.0\DynamicArray.deps.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\bin\Debug\net6.0\DynamicArray.runtimeconfig.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\bin\Debug\net6.0\DynamicArray.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\bin\Debug\net6.0\DynamicArray.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\DynamicArray.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\DynamicArray.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\DynamicArray.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\refint\DynamicArray.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\DynamicArray.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\DynamicArray.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\DynamicArray\obj\Debug\net6.0\ref\DynamicArray.dll

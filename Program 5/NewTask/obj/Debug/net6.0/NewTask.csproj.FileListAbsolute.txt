@@ -1,0 +1,15 @@
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\bin\Debug\net6.0\NewTask.exe
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\bin\Debug\net6.0\NewTask.deps.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\bin\Debug\net6.0\NewTask.runtimeconfig.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\bin\Debug\net6.0\NewTask.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\bin\Debug\net6.0\NewTask.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\NewTask.csproj.AssemblyReference.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\NewTask.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\refint\NewTask.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\NewTask.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\NewTask.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\NewTask\NewTask\obj\Debug\net6.0\ref\NewTask.dll

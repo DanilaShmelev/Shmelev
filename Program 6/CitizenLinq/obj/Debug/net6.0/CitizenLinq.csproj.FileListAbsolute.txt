@@ -1,0 +1,15 @@
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\bin\Debug\net6.0\CitizenLinq.exe
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\bin\Debug\net6.0\CitizenLinq.deps.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\bin\Debug\net6.0\CitizenLinq.runtimeconfig.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\bin\Debug\net6.0\CitizenLinq.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\bin\Debug\net6.0\CitizenLinq.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\CitizenLinq.csproj.AssemblyReference.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\CitizenLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\CitizenLinq.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\CitizenLinq.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\CitizenLinq.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\CitizenLinq.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\refint\CitizenLinq.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\CitizenLinq.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\CitizenLinq.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\CitizenLinq\obj\Debug\net6.0\ref\CitizenLinq.dll

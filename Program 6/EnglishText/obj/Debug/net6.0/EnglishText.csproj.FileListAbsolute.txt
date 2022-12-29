@@ -1,0 +1,15 @@
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\bin\Debug\net6.0\EnglishText.exe
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\bin\Debug\net6.0\EnglishText.deps.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\bin\Debug\net6.0\EnglishText.runtimeconfig.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\bin\Debug\net6.0\EnglishText.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\bin\Debug\net6.0\EnglishText.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\EnglishText.csproj.AssemblyReference.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\EnglishText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\EnglishText.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\EnglishText.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\EnglishText.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\EnglishText.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\refint\EnglishText.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\EnglishText.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\EnglishText.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\EnglishText\obj\Debug\net6.0\ref\EnglishText.dll

@@ -7,7 +7,7 @@ namespace Local_Class
     {
         internal static void PrintDates(string str)
         {
-            string pattern = @"(?<day>0[1-9]|[1-2][0-9]|3[0-1])-(?<month>0[1-9]|1[0-2])-(?<year>[0-9]{4})";
+            string pattern = @"(?<day>0[1-9]|[1-2][\d]|3[0-1])-(?<month>0[1-9]|1[0-2])-(?<year>[\d]{4})";
             Regex regex = new Regex(pattern);
             MatchCollection matches = regex.Matches(str);
 

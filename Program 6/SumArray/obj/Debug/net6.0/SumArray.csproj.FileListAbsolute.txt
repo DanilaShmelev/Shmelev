@@ -1,0 +1,15 @@
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\bin\Debug\net6.0\SumArray.exe
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\bin\Debug\net6.0\SumArray.deps.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\bin\Debug\net6.0\SumArray.runtimeconfig.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\bin\Debug\net6.0\SumArray.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\bin\Debug\net6.0\SumArray.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\SumArray.csproj.AssemblyReference.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\SumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\SumArray.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\SumArray.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\SumArray.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\SumArray.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\refint\SumArray.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\SumArray.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\SumArray.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\SumArray\obj\Debug\net6.0\ref\SumArray.dll

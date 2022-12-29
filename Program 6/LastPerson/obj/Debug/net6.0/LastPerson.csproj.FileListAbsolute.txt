@@ -1,0 +1,15 @@
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\bin\Debug\net6.0\LastPerson.exe
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\bin\Debug\net6.0\LastPerson.deps.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\bin\Debug\net6.0\LastPerson.runtimeconfig.json
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\bin\Debug\net6.0\LastPerson.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\bin\Debug\net6.0\LastPerson.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\LastPerson.csproj.AssemblyReference.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\LastPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\LastPerson.AssemblyInfoInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\LastPerson.AssemblyInfo.cs
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\LastPerson.csproj.CoreCompileInputs.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\LastPerson.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\refint\LastPerson.dll
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\LastPerson.pdb
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\LastPerson.genruntimeconfig.cache
+C:\Users\shmel\OneDrive\Рабочий стол\Shmelev\Six\LastPerson\obj\Debug\net6.0\ref\LastPerson.dll
